@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1080290323867",
+    "project_id": "onetap-a9e2e",
+    "storage_bucket": "onetap-a9e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080290323867:android:50f89489f9dddc97c2453e",
+        "android_client_info": {
+          "package_name": "com.example.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080290323867-fpn57cb3cqi10anlou9bkuoh26ov1q20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesignin",
+            "certificate_hash": "650ae1e17a9bab1151dd850e49a2182f47b2e812"
+          }
+        },
+        {
+          "client_id": "1080290323867-s9dmv8g4oal51l8d6e0iqoaiuvbiq391.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG9JLV-JWUEewwHi-Feo0Gzt7BUcSDB2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080290323867-s9dmv8g4oal51l8d6e0iqoaiuvbiq391.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
